@@ -1,8 +1,8 @@
 # Plantilla Formulario de registro React con Tailwind CSS
 
-## Instalar las carpetas node_module `yarn install`
+Instalar las carpetas node_module `yarn install`
 
-## Ejecutar con `yarn dev`
+Ejecutar con `yarn dev`
 
 [![Login.png](https://i.postimg.cc/jqL8k9D8/Login.png)](https://postimg.cc/23NF10Fv)
 
